@@ -32,4 +32,4 @@ close #
 - [ ] マージ先のブランチが意図したものになっている
 - [ ] レビュアーを設定する
 - [ ] アサイニーを設定する
-- [ ] Linked Issueを設定する
+- [ ] Development(Linked Issue)を設定する
